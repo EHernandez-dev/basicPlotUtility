@@ -1,1 +1,2 @@
 # basicPyPlotUtility
+Scientific looking plots
