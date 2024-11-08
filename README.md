@@ -1,2 +1,2 @@
 # basicPyPlotUtility
-Scientific looking plots
+Data visualization for scientific articles
